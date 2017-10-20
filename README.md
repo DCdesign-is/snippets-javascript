@@ -1,2 +1,2 @@
-# snippets-javascript
+# Snippets Javascript
 Snnipets de Javascript 
