@@ -1,8 +1,8 @@
-					// Intervalo de tiempo 
-          var timerRun = setInterval(redir, 5000);
+        // Intervalo de tiempo 
+        var timerRun = setInterval(redir, 5000);
 					
-          // Enlace de redirección
-					function redir(){
-					window.location.href = 'your-file.html';
-					}
+        // Enlace de redirección
+	function redir(){
+		window.location.href = 'your-file.html';
+	}
 					
